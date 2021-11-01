@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
+
 //Dokumanlar cok onemlidir o yüzden mutlaka yazmak gerekir
 class MyApp extends StatelessWidget {
   Container containerOlustur(String harf, Color renk, {double margin = 0}) {
